@@ -3,7 +3,7 @@
 ## First inning ball to ball coverage of:
 * 1474 T-20 matches -> data/t20.csv
 
-## Each dataset consists of the following columns:
+## dataset consists of the following columns:
 
 * mid -> Each match is given a unique number
 * date -> When the match happened
