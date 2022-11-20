@@ -1,10 +1,7 @@
 # Dataset
 
 ## First inning ball to ball coverage of:
-
-* 1188 ODI matches -> data/odi.csv
 * 1474 T-20 matches -> data/t20.csv
-* 617 IPL matches -> data/ipl.csv
 
 ## Each dataset consists of the following columns:
 
